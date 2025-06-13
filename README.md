@@ -1,4 +1,5 @@
 Coca-Cola × Athletic Brewing Acquisition Strategy
+
 This project presents a strategic M&A proposal for Coca-Cola to acquire Athletic Brewing, expanding into the $40B U.S. non-alcoholic beer market through health-conscious, purpose-driven positioning.
 
 Tools Used
